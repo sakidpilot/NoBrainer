@@ -1,4 +1,4 @@
-# OPSC7312 POE 2 - KRSS
+# OPSC7312 POE - KRSS
 ___
 
 # No Brainer Quiz App
@@ -11,7 +11,7 @@ ___
 - Installation
 - Usage
 - Technologies Used](#technologies-used
-- Release Notes - Version 1.1.0]
+- Release Notes - Version 2.0]
 - Links
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ## Installation
 
-1. Clone the repository: `https://github.com/sakidpilot/OPSC7312_NoBrainer.git`
+1. Clone the repository: `https://github.com/sakidpilot/NoBrainer`
 2. Install the dependencies
 3. Youtube Link to assist in installations and cloning: [Video Tutorial](https://www.youtube.com/watch?v=JSwRqOZo2Y8)
 ___
@@ -132,7 +132,7 @@ At the bottom of the navigation bar is a trophy icon. Once users click on it, th
 Used to assist users at any time of the quizz .
 ___
 
-## Release Notes - Version 1.1.0
+## Release Notes - Version 2.0
 This update introduces new features and improvements, enhancing the user experience of the No Brainer Quiz App.
 
 ## User Authentication:
