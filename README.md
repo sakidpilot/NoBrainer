@@ -168,6 +168,9 @@ ___
 
 ## Team
 
-Khatija Essa, Ravelle Balraj, Sherel Davaraj, Sahil Parduman
+Khatija Essa,
+Ravelle Balraj, 
+Sherel Davaraj, 
+Sahil Parduman
 
 Thank you ;)
