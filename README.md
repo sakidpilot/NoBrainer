@@ -128,8 +128,14 @@ When users click on the user manual, they can view a description of the No Brain
 ## Learder board 
 At the bottom of the navigation bar is a trophy icon. Once users click on it, they will be directed to the leaderboard page.
 
+![image](https://github.com/user-attachments/assets/dea71a78-2347-4414-8ec4-78a5d765c099)
+
+
 ## Chat bot 
-Used to assist users at any time of the quizz .
+Used to assist users at any time of the quizz.
+
+![image](https://github.com/user-attachments/assets/ef39e129-70f5-4dea-88ad-2d351af5634b)
+
 ___
 
 ## Release Notes - Version 2.0
