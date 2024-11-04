@@ -59,7 +59,7 @@ Once the app is running, users can log in, create gaming profiles, play quizzes,
 ## Login Page
 
 ![image0](https://github.com/user-attachments/assets/011ae6b7-acc9-46ef-9803-d3d4bf134dbe)
-The login page provides users with multiple options for authentication. Existing users can log in by entering their credentials, while new users can easily register for an account. Additionally, users have the convenience of Single Sign-On (SSO) using their Gmail accounts for faster and more secure access. If a user forgets their password, they can reset it by clicking on the "Forgot Password" button. All logins data, including user authentication details, are securely stored and managed using Firebase, ensuring data integrity and security throughout the process.
+The login page offers users multiple convenient options for authentication. Existing users can log in by entering their credentials, while new users can easily register for an account. For faster and more secure access, users can also choose Single Sign-On (SSO) via their Gmail accounts. Additionally, biometric login options—such as fingerprint, Face ID, or device passcode (depending on device capability)—are available for added convenience. If a user forgets their password, they can reset it by clicking the "Forgot Password" button. All login data, including authentication details, is securely stored and managed using Firebase, ensuring data integrity and security throughout the process.
 
 ## Sign Up Page
 
@@ -78,7 +78,7 @@ When a new user is created, they will automatically receive 50 tokens. Users hav
 ## Quizies
 
 ![image4](https://github.com/user-attachments/assets/e7fb856e-bd16-467d-b526-fb4d602e35a3)
-Once the user selects the category of the quiz they want to take, the quiz will begin, and they will have a timer to complete it. The quiz will display a progress bar to show their advancement. If users are unsure of an answer, they can pay 5 tokens for a hint. Users who score higher than 75% on the quiz will receive a token reward.The questions are recieved from the rest API.
+Once a user selects a quiz category, the quiz begins with a timer to encourage timely completion. A progress bar displays the user’s advancement through the quiz. If a user is unsure of an answer, they can spend 5 tokens to receive a hint. Users who score above 75% on the quiz will earn token rewards. Quiz questions are dynamically retrieved from a REST API, while a selection of quizzes is available offline for users to enjoy without internet access.
 
 ## Creating Your Own Quiz 
 
@@ -113,7 +113,7 @@ Users can click on the profile icon and will be redirected to a page where they 
 ## Setting Page
 
 ![image12](https://github.com/user-attachments/assets/5bb2e937-409a-4035-b09c-f6dae71df2c5)
-Users can click on the settings icon in the bottom navigation bar and will be redirected to the settings page. On this page, users have the ability to edit their profile, toggle between dark and light modes (feature coming in Part 3), and change their language (coming in Part 3). Additionally, a list of offline features will be available (coming in Part 3). Users can also access the user manual or log out of the app entirely.
+Users can click on the settings icon in the bottom navigation bar and will be redirected to the settings page. On this page, users have the ability to edit their profile, toggle between change their languages from either english or zulu. Additionally, a list of offline features will be available. Users can also access the user manual or log out of the app entirely.
 
 ## Edit Gaming Profile 
 
