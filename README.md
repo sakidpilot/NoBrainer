@@ -112,7 +112,9 @@ Users can click on the profile icon and will be redirected to a page where they 
 
 ## Setting Page
 
-![image12](https://github.com/user-attachments/assets/5bb2e937-409a-4035-b09c-f6dae71df2c5)
+![image](https://github.com/user-attachments/assets/229697a4-a232-460c-9af1-5e00db54c357)
+
+
 Users can click on the settings icon in the bottom navigation bar and will be redirected to the settings page. On this page, users have the ability to edit their profile, toggle between change their languages from either english or zulu. Additionally, a list of offline features will be available. Users can also access the user manual or log out of the app entirely.
 
 ## Edit Gaming Profile 
