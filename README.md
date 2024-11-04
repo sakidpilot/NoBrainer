@@ -59,7 +59,7 @@ Once the app is running, users can log in, create gaming profiles, play quizzes,
 ## Login Page
 
 ![image0](https://github.com/user-attachments/assets/011ae6b7-acc9-46ef-9803-d3d4bf134dbe)
-The login page offers users multiple convenient options for authentication. Existing users can log in by entering their credentials, while new users can easily register for an account. For faster and more secure access, users can also choose Single Sign-On (SSO) via their Gmail accounts. Additionally, biometric login options—such as fingerprint, Face ID, or device passcode (depending on device capability)—are available for added convenience. If a user forgets their password, they can reset it by clicking the "Forgot Password" button. All login data, including authentication details, is securely stored and managed using Firebase, ensuring data integrity and security throughout the process.
+Users can log in either by entering their email and password or by using Single Sign-On (SSO) with their Google account. After logging in, they will be prompted to complete an additional layer of authentication. Depending on their device's capabilities, users can authenticate using fingerprint, Face ID, or their device passcode.
 
 ## Sign Up Page
 
