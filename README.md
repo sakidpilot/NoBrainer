@@ -133,35 +133,28 @@ Used to assist users at any time of the quizz .
 ___
 
 ## Release Notes - Version 2.0
-This update introduces new features and improvements, enhancing the user experience of the No Brainer Quiz App.
+Since the initial prototype, the No Brainer Quiz app has undergone significant updates, introducing several innovative features:
 
-## User Authentication:
-- Added Single Sign-On (SSO) with Gmail for simplified access.
-- Introduced a "Forgot Password" option for password recovery.
-- Added biometric sign-in options, including Face ID, fingerprint, or password, depending on device compatibility.
+## 1. Leaderboard Integration:
+   The app now includes a real-time leaderboard to display top scores, adding a competitive edge for users as they can track and compare their quiz achievements.
 
-## Expanded Game Options:
-- Added the classic Snake game under “Other Games” for nostalgic gaming.
+## 2. Biometric Login:
+   For enhanced security and convenience, users can log in with biometric authentication, making the login process faster and more secure. User can either their figure print, face id or password depending on what their device supports.
 
-## Custom Quiz Creation:
-- Users can create custom quizzes with up to 10 questions, stored locally in SQLite.
+## 3. Offline Mode:
+   Users can now play quizzes offline, either from a preloaded set of quizzes or by creating their own. Offline functionality is managed using SQLite, ensuring users have access to the app even without internet connectivity.
 
-## Profile Customization:
-- Users can choose avatars, such as Mario or Peach, based on gender.
-- Profile editing enables updating information stored in the SQL database.
+## 4. Real-Time and Firebase Notifications:
+   The app supports real-time notifications, including Firebase notifications, to keep users engaged and informed of important updates or new quizzes.
 
-## REST API for User Manual:
-The user manual is dynamically retrieved from the REST API, ensuring immediate updates.
+## 5. Multi-Language Support:
+   The app includes language options for both English and Zulu, allowing users to select their preferred language.
 
-## Enhanced Hint System:
-- Users can redeem 5 tokens for hints, enriching the quiz experience.
+## 6. AI Chat Assistance:
+   An AI-powered chat feature is available for users to ask questions or seek help, enhancing the interactive experience within the app.
 
-## Leaderboard Feature:
-A leaderboard, accessible from the navigation bar, will rank users based on quiz scores to add a competitive edge.
 
-## UI Enhancements:
-- Added language change options for improved accessibility.
-- Offline access is available for selected quizzes and personal quizzes.
+These added features create a more interactive, accessible, and secure experience for users, reinforcing No Brainer Quiz as an engaging and versatile app for quiz enthusiasts.
 
 If there is any uncertainty, below lies a link to a demonstration video on how to use the application, and another video explaining the tech stack employed in the application development.
 
