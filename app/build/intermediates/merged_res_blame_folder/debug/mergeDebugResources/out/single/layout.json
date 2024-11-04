@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_quiz.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_play_quiz.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_play_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\score_dialog.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\score_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_other_games.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_other_games.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\content_activity_edit_user.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\content_activity_edit_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_chat_ai.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_chat_ai.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\item_score.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\item_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_own_quiz.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_own_quiz.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeDebugResources-87:/layout/activity_settings.xml",
+        "source": "com.example.st_nobrainerquizapp-main-90:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_scoreboard.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_scoreboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_view_profile.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_view_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\progress_bar.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\quiz_item_recycler_row.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\quiz_item_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_snake_game.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_snake_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_user_manual.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_user_manual.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_edit_user.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_edit_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_biometric.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_biometric.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_reset_password.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_user_profile.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\item_quiz.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\item_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-mergeDebugResources-87:\\layout\\activity_my_quiz.xml",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_my_quiz.xml"
+    }
+]

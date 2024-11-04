@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_own_quiz.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_own_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_cat3.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\cat3.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_chat_ai.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_chat_ai.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_background_gradient2.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\background_gradient2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_pikachu.jpeg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\pikachu.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_bottom_btn3.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\bottom_btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_icon_timer.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\icon_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_view_profile.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_view_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_quiz_item_recycler_row.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\quiz_item_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_thieves.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\thieves.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_img_snake_head3.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\img_snake_head3.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_left_arrow.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\left_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_q_7.jpeg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\q_7.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_bottom_btn4.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\bottom_btn4.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_right_arrow.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_person4.jpeg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\person4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_red_bg.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\red_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_cat2.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\cat2.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_person1.jpg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\person1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_user_manual.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_user_manual.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_person3.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\person3.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_img_snake_head.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\img_snake_head.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_ai_icon.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\ai_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_other_game.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\other_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_q_1.jpeg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\q_1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_img_snake_head2.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\img_snake_head2.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_btn3.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\btn3.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_q_5.jpeg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\q_5.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_person9.jpeg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\person9.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_q_2.jpeg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\q_2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_img_apple.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\img_apple.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_q_8.jpeg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\q_8.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_garnet.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\garnet.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_background_color.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\background_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_arrow_right.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_answer_bg.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\answer_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_crown.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\crown.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_person8.jpg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\person8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_ic_setting.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\ic_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_profile.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_quiz.jpg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\quiz.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_edit_user.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_edit_user.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-debug-88:/layout_activity_settings.xml.flat",
+        "source": "com.example.st_nobrainerquizapp-main-90:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_logo_image.webp.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\logo_image.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_background_gradient.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_ic_offline.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\ic_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_score_dialog.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\score_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_item_score.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\item_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_btn1.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_scoreboard.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_scoreboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_q_10.jpeg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\q_10.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_edit_text_background.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_person2.jpeg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\person2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_plus.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_biometric.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_biometric.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_cart6.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\cart6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_google.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_user_profile.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_tick.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\tick.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_ai_message_bg.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\ai_message_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_my_quiz.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_my_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_reset_password.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_q_3.webp.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\q_3.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_q_4.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\q_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_user_message_bg.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\user_message_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_progress_bar.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_bottom_btn1.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\bottom_btn1.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_cat1.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\cat1.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_boy.jpg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\boy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_q_9.jpg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\q_9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_navy_background.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\navy_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_quiz_icon.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\quiz_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_btn2.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_snake_game.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_snake_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_perosn7.jpeg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\perosn7.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_bottom_btn2.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\bottom_btn2.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_play_quiz.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_play_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_person6.jpg.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\person6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_img_snake_head4.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\img_snake_head4.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_content_activity_edit_user.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\content_activity_edit_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_cat4.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\cat4.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_nav_background.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\nav_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_item_quiz.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\item_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_other_games.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_other_games.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_trophy.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\trophy.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_quiz.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_back.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_logo.webp.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\logo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_green_bg.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\green_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\drawable_q_6.png.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\drawable\\q_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-debug-88:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Sahil Parduman\\.gradle\\daemon\\8.4\\com.example.st_nobrainerquizapp-main-90:\\xml\\data_extraction_rules.xml"
+    }
+]
