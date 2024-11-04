@@ -136,32 +136,32 @@ ___
 This update introduces new features and improvements, enhancing the user experience of the No Brainer Quiz App.
 
 ## User Authentication:
--Added Single Sign-On (SSO) with Gmail for simplified access.
--Introduced a "Forgot Password" option for password recovery.
--Added biometric sign-in options, including Face ID, fingerprint, or password, depending on device compatibility.
+- Added Single Sign-On (SSO) with Gmail for simplified access.
+- Introduced a "Forgot Password" option for password recovery.
+- Added biometric sign-in options, including Face ID, fingerprint, or password, depending on device compatibility.
 
 ## Expanded Game Options:
--Added the classic Snake game under “Other Games” for nostalgic gaming.
+- Added the classic Snake game under “Other Games” for nostalgic gaming.
 
 ## Custom Quiz Creation:
--Users can create custom quizzes with up to 10 questions, stored locally in SQLite.
+- Users can create custom quizzes with up to 10 questions, stored locally in SQLite.
 
 ## Profile Customization:
--Users can choose avatars, such as Mario or Peach, based on gender.
--Profile editing enables updating information stored in the SQL database.
+- Users can choose avatars, such as Mario or Peach, based on gender.
+- Profile editing enables updating information stored in the SQL database.
 
 ## REST API for User Manual:
 The user manual is dynamically retrieved from the REST API, ensuring immediate updates.
 
 ## Enhanced Hint System:
--Users can redeem 5 tokens for hints, enriching the quiz experience.
+- Users can redeem 5 tokens for hints, enriching the quiz experience.
 
 ## Leaderboard Feature:
 A leaderboard, accessible from the navigation bar, will rank users based on quiz scores to add a competitive edge.
 
 ## UI Enhancements:
--Added language change options for improved accessibility.
--Offline access is available for selected quizzes and personal quizzes.
+- Added language change options for improved accessibility.
+- Offline access is available for selected quizzes and personal quizzes.
 
 If there is any uncertainty, below lies a link to a demonstration video on how to use the application, and another video explaining the tech stack employed in the application development.
 
