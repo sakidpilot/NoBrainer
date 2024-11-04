@@ -158,10 +158,10 @@ These added features create a more interactive, accessible, and secure experienc
 
 If there is any uncertainty, below lies a link to a demonstration video on how to use the application, and another video explaining the tech stack employed in the application development.
 
-[No Brainer App Presentation Video] https://youtu.be/XVBMSLy3TrA 
+[No Brainer App Presentation Video] https://youtu.be/PdSOy-fq764
 
 
-[No Brainer App, DB, REST API tech stack Presentation Video] https://youtu.be/QwDc9Z9QMiE 
+[No Brainer App, DB, REST API tech stack Presentation Video] https://youtu.be/KJf483xnhF4 
 
 ___
 
