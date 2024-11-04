@@ -168,9 +168,8 @@ ___
 
 ## Team
 
-Khatija Essa,
-Ravelle Balraj, 
-Sherel Davaraj, 
-Sahil Parduman
+Khatija Essa, Ravelle Balraj, Sherel Davaraj, Sahil Parduman
 
-Thank you ;)
+Contact: st10198310@gmail.com
+
+Thank you :)
