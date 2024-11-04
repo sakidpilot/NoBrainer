@@ -1,0 +1,47 @@
+# Project Workflow Name
+name: NoBrainer CI Build and Test 
+
+on:
+# When push command run on main - execute workflow
+  push:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    # Use at runtime
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      # Setup java nodes
+      - name: Set Up JDK
+        uses: actions/setup-java@v2
+        with:
+          distribution: 'zulu' 
+          java-version: '17'
+          cache: 'gradle'
+
+      # Update gradle permissions for flows
+      - name: Change wrapper permissions
+        run: chmod +x ./gradlew
+
+      # Run Tests Build
+      - name: Run gradle tests
+        run: ./gradlew test
+
+      # Run Build Project
+      - name: Build gradle project
+        run: ./gradlew build
+
+      # Create APK Debug
+      - name: Build apk debug project (APK) - module
+        run: ./gradlew assembleDebug
+
+      # Create APK Release
+      - name: Build apk release project (APK) - module
+        run: ./gradlew assemble
