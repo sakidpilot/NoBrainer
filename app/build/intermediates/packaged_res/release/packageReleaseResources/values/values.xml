@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#03A9F4</color>
+    <color name="bronze">#ae844f</color>
+    <color name="button_color">#6200EA</color>
+    <color name="button_color1">#FF5733</color>
+    <color name="button_color2">#33FF57</color>
+    <color name="button_color3">#3357FF</color>
+    <color name="button_color4">#FF33A6</color>
+    <color name="darkBlue">#0c7fc4</color>
+    <color name="dark_blue">#15206E</color>
+    <color name="dark_green">#006600</color>
+    <color name="drop_down_icon">#65a8d7</color>
+    <color name="endColor">#FF33A6</color>
+    <color name="gold">#FFD700</color>
+    <color name="gray">#F4F4F4</color>
+    <color name="green">#4CAF50</color>
+    <color name="grey">#aaa</color>
+    <color name="light_gray">#d8d8d8</color>
+    <color name="navy_blue">#181a4b</color>
+    <color name="orange">#FFA500</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#BEBFBE</color>
+    <color name="startColor">#3357FF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#888888</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <dimen name="et_text_size">20sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="navigation_bar_icon_size">40dp</dimen>
+    <dimen name="radio_button_width">60dp</dimen>
+    <dimen name="start_end_margin">20dp</dimen>
+    <dimen name="til_radius">10dp</dimen>
+    <string name="age">Age</string>
+    <string name="app_name">No Brainer</string>
+    <string name="app_settings">App Settings</string>
+    <string name="bio">Bio</string>
+    <string name="channel_description">Notifications for NoBrainer quiz app</string>
+    <string name="channel_name">NoBrainer Channel</string>
+    <string name="chat_ai">Chat AI</string>
+    <string name="correct_answer_1_4">Correct Answer (1-4)</string>
+    <string name="create_quiz">Create Quiz</string>
+    <string name="create_your_quiz">Create Your Quiz</string>
+    <string name="default_web_client_id" translatable="false">751401306427-mmjh1vu4pal7vprknvk541fc0p9q5jf3.apps.googleusercontent.com</string>
+    <string name="delete_quiz">Delete Quiz</string>
+    <string name="edit_user_profile">Edit Profile</string>
+    <string name="email">Email</string>
+    <string name="enter_in_your_quiz_name">Enter in your Quiz name</string>
+    <string name="enter_option_1">Enter option 1</string>
+    <string name="enter_option_2">Enter option 2</string>
+    <string name="enter_option_3">Enter option 3</string>
+    <string name="enter_option_4">Enter option 4</string>
+    <string name="enter_your_query">Enter your query</string>
+    <string name="enter_your_question">Enter your question</string>
+    <string name="female">Female</string>
+    <string name="finish">Finish</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="forgot_password_msg">Don\'t worry! it happens. Please enter the email address associated with your account.</string>
+    <string name="gcm_defaultSenderId" translatable="false">751401306427</string>
+    <string name="gender">Gender: </string>
+    <string name="google_api_key" translatable="false">AIzaSyDqoF76qlr_nWQDtU0FvMy3EvAb2ftmApk</string>
+    <string name="google_app_id" translatable="false">1:751401306427:android:d5dd1641cbf1c5c513cf1e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDqoF76qlr_nWQDtU0FvMy3EvAb2ftmApk</string>
+    <string name="google_storage_bucket" translatable="false">st-nobrainerquizapp.appspot.com</string>
+    <string name="got_it">Got It</string>
+    <string name="hint">Hint?</string>
+    <string name="languages">Languages</string>
+    <string name="login">Login</string>
+    <string name="login_google">Login with Google</string>
+    <string name="logout">Logout</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="male">Male</string>
+    <string name="my_quiz">My Quiz</string>
+    <string name="name">Name</string>
+    <string name="new_user">New Here?</string>
+    <string name="next">Next</string>
+    <string name="next_question">Next Question</string>
+    <string name="notification_text">Take a Quiz break? Play an arcade game now!</string>
+    <string name="notification_title">Time to play</string>
+    <string name="on_submit_msg">Check out your mailbox, you will receive an email containing link where you can reset your password</string>
+    <string name="other_games">Other Games</string>
+    <string name="password">Password</string>
+    <string name="play_snake">Play Snake Game</string>
+    <string name="previous">Previous</string>
+    <string name="project_id" translatable="false">st-nobrainerquizapp</string>
+    <string name="question">Question</string>
+    <string name="quiz_cat">Quiz Categories</string>
+    <string name="register"> Register</string>
+    <string name="response">Response</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="save_quiz">Save Quiz</string>
+    <string name="score">Score</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="skip_profile_setup">Skip if already have one</string>
+    <string name="submit">Submit</string>
+    <string name="sync">Sync Offline Data</string>
+    <string name="user_exist_msg">Joined us before?</string>
+    <string name="user_game_profile">User Gaming Profile</string>
+    <string name="user_manual">User Manual</string>
+    <string name="username">Username</string>
+    <style name="Base.Theme.St_NoBrainerQuizApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="ShapeAppearanceOverlay.App.CornerSizeHalf" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.App.CornerSizeMedium" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+    <style name="Theme.St_NoBrainerQuizApp" parent="Base.Theme.St_NoBrainerQuizApp"/>
+    <style name="roundImageViewRounded">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

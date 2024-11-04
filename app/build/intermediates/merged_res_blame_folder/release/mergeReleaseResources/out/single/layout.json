@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_edit_user.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_edit_user.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/fragment_first.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/quiz_item_recycler_row.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/quiz_item_recycler_row.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_login.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_view_profile.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_view_profile.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_sign_up.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_snake_game.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_snake_game.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_chat_ai.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_chat_ai.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/item_quiz.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/item_quiz.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/progress_bar.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/progress_bar.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/score_dialog.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/score_dialog.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_biometric.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_biometric.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_play_quiz.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_play_quiz.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_quiz.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_scoreboard.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_scoreboard.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_own_quiz.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_own_quiz.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/content_activity_edit_user.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/content_activity_edit_user.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_other_games.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_other_games.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_user_profile.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_user_profile.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_settings.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_main.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/item_score.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/item_score.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_my_quiz.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_my_quiz.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/fragment_second.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_reset_password.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_reset_password.xml"
+    },
+    {
+        "merged": "com.example.st_nobrainerquizapp-mergeReleaseResources-83:/layout/activity_user_manual.xml",
+        "source": "com.example.st_nobrainerquizapp-main-85:/layout/activity_user_manual.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">751401306427-mmjh1vu4pal7vprknvk541fc0p9q5jf3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">751401306427</string>
+    <string name="google_api_key" translatable="false">AIzaSyDqoF76qlr_nWQDtU0FvMy3EvAb2ftmApk</string>
+    <string name="google_app_id" translatable="false">1:751401306427:android:d5dd1641cbf1c5c513cf1e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDqoF76qlr_nWQDtU0FvMy3EvAb2ftmApk</string>
+    <string name="google_storage_bucket" translatable="false">st-nobrainerquizapp.appspot.com</string>
+    <string name="project_id" translatable="false">st-nobrainerquizapp</string>
+</resources>
